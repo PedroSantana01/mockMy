@@ -1,9 +1,9 @@
 {
  "life": 100,
- "hungry": 100,
- "thirst": 100,
- "bath": 100,
- "hygiene": 100,
+ "hungry": 50,
+ "thirst": 80,
+ "bath": 0,
+ "hygiene": 30,
  "level": 100,
  "experiencie": 100,
  "money": 100,
