@@ -2,7 +2,7 @@
  "life": 100,
  "hungry": 50,
  "thirst": 80,
- "bath": 0,
+ "bath": 50,
  "hygiene": 30,
  "level": 100,
  "experiencie": 100,
