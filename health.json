@@ -4,7 +4,7 @@
  "thirst": 80,
  "bath": 50,
  "hygiene": 30,
- "level": 10,
+ "level": 1,
  "experience": 100,
  "money": 100,
 }
