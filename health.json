@@ -1,5 +1,5 @@
 {
- "life": 100,
+ "health": 100,
  "hungry": 50,
  "thirst": 80,
  "bath": 50,
